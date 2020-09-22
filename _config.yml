@@ -1,22 +1,14 @@
 # Site settings
-title: Smile Killah Blog
-description: Smile Killah Blog
+title: 𝒦𝒾𝓁𝓁𝒶𝒽
+description: 𝒦𝒾𝓁𝓁𝒶𝒽
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Smile Killah
-#user_description: You will have it if it belongs to you, Whereas you don't catch for it if it doesn't appear in your life.
-user_description: 精神病人思路广，弱智儿童欢乐多。个人主义极强的犯2儿童一名!
+user_description: 个人主义极强的犯2儿童一名 !
+#user_description: 这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。
 user_title: Hello，Stranger !
 
-email: 443890800@qq.com
-twitter_username: killahs
-github_username: killahs
-gplus_username: killahs
 
-# Google-analytics
-google-analytics:
-  id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
